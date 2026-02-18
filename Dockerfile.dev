@@ -1,0 +1,5 @@
+# Choisir une image de base pour Odoo
+FROM odoo:17.0
+
+# Exposer le port de l'application (standard pour Odoo)
+EXPOSE 4600
